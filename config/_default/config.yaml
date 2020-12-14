@@ -1,0 +1,5 @@
+baseURL: "http://example.org/"
+title: "Ananke Sandbox"
+disqusShortname: something
+theme:
+  - github.com/theNewDynamic/gohugo-theme-ananke

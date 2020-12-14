@@ -1,0 +1,4 @@
+main:
+  - url: https://thenewdynanic.com
+    name: TND
+    weight: 5

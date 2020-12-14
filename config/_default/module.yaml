@@ -1,0 +1,15 @@
+imports:
+  - path: github.com/theNewDynamic/hugo-module-tnd-seo
+  - path: github.com/theNewDynamic/hugo-workshop-starter
+    mounts:
+    - source: content/products
+      target: content/products
+      lang: en
+    - source: assets/images
+      target: assets/uploads
+  - path: github.com/theNewDynamic/unit-tests
+    ignoreConfig: true
+    mounts:
+    - source: content/unit-tests
+      target: content/articles
+      lang: en
