@@ -1,5 +1,7 @@
 module github.com/theNewDynamic/ananke-sandbox
 
+// replace github.com/theNewDynamic/gohugo-theme-ananke => /Users/{user}/{path}/gohugo-theme-ananke
+
 go 1.14
 
 require (
