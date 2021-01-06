@@ -1,5 +1,6 @@
 baseURL: "http://example.org/"
 title: "Ananke Sandbox"
+DefaultContentLanguage: en
 disqusShortname: something
 theme:
   - github.com/theNewDynamic/gohugo-theme-ananke
