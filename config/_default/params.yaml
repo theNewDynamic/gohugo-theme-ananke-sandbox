@@ -1,4 +1,12 @@
 twitter: https://twitter.com/theNewDynamic
 show_reading_time: true
+ananke_process_css: true
 custom_css:
+  - custom_rp.css
   - custom.css
+ananke_socials:
+- name: facebook
+  url: https://facebook.com/something-cool
+  color: 'red'
+- name: fancy
+  url: https://fancy.com/yoyo

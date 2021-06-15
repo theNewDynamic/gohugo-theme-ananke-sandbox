@@ -1,3 +1,7 @@
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210119204302-ffd9d903c905 h1:Jo3oMaFr2Nt79Bc7AEuYLPA/m8GybuXOyAZqjR+G8zI=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210119204302-ffd9d903c905/go.mod h1:bgj7bjD98mZSR/KOYKuF5lcIgEmTnJ763rZH4EseLv4=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210615135827-6eb54ab5fd8b h1:zdWIljhShicsX2q/DcUfrD0klKu2UIFzYYb1jQa4XDQ=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210615135827-6eb54ab5fd8b/go.mod h1:bgj7bjD98mZSR/KOYKuF5lcIgEmTnJ763rZH4EseLv4=
 github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible h1:7c+NVmojLSbkk3F0GjCvEgWRI8oZh++vtR9VbNZJuMY=
 github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible/go.mod h1:RlzLLao82tupbQFWEZtV9ibVqr9+2WYw31sCghz3n3Y=
 github.com/theNewDynamic/hugo-module-tnd-seo v0.1.5/go.mod h1:VY3Qvzif9T0Z0rjR85ufUQE1wrS/M5VZC9Dx1V8Vo8Y=

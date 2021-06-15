@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="debug">
+        {{/* {{ $services := partialCached "func/socials/GetSocials" "GetSocials" }}
+        {{ range $services }}
+        <p>{{ printf "%#v" . }}</p>
+        {{ end }} */}}
+      </div>
+    </article>
+  </div>
+{{ end }}
