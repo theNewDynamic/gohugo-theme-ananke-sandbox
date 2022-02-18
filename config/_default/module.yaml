@@ -1,15 +1,17 @@
-imports:
-  - path: github.com/theNewDynamic/hugo-module-tnd-seo
-  - path: github.com/theNewDynamic/hugo-workshop-starter
-    mounts:
-    - source: content/products
-      target: content/products
-      lang: en
-    - source: assets/images
-      target: assets/uploads
-  - path: github.com/theNewDynamic/unit-tests
-    ignoreConfig: true
-    mounts:
-    - source: content/unit-tests
-      target: content/articles
-      lang: en
+mounts:
+- source: content/en
+  target: content
+  lang: en
+- source: content/fr
+  target: content
+  lang: fr
+- source: generator/generated_content/content/posts
+  target: content/post
+  lang: en
+- source: generator/generated_content/content/products
+  target: content/products
+  lang: en
+- source: static
+  target: static
+- source: generator/generated_content/images
+  target: static/images

@@ -2,8 +2,11 @@ github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210119204302-ffd9d903c905 
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210119204302-ffd9d903c905/go.mod h1:bgj7bjD98mZSR/KOYKuF5lcIgEmTnJ763rZH4EseLv4=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210615135827-6eb54ab5fd8b h1:zdWIljhShicsX2q/DcUfrD0klKu2UIFzYYb1jQa4XDQ=
 github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20210615135827-6eb54ab5fd8b/go.mod h1:bgj7bjD98mZSR/KOYKuF5lcIgEmTnJ763rZH4EseLv4=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20211001174522-b0bf3ccca1a4 h1:uuNskrMNHWYidtW28No2DUtHlPoXcA9zNiWuvrrddWk=
+github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20211001174522-b0bf3ccca1a4/go.mod h1:bgj7bjD98mZSR/KOYKuF5lcIgEmTnJ763rZH4EseLv4=
 github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible h1:7c+NVmojLSbkk3F0GjCvEgWRI8oZh++vtR9VbNZJuMY=
 github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible/go.mod h1:RlzLLao82tupbQFWEZtV9ibVqr9+2WYw31sCghz3n3Y=
+github.com/theNewDynamic/hugo-module-tnd-seo v0.1.5 h1:0ZmdfWV5+mFqplCYyUsGyjPOTSNyxjXYsUmoa+H7ftc=
 github.com/theNewDynamic/hugo-module-tnd-seo v0.1.5/go.mod h1:VY3Qvzif9T0Z0rjR85ufUQE1wrS/M5VZC9Dx1V8Vo8Y=
 github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20201211194945-3652bbe3bbbc h1:Ih3DscJCXTLhaQenaNo+1Qiz8kU01TpmCiRO8aNyXs8=
 github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20201211194945-3652bbe3bbbc/go.mod h1:fuXjv9Nbt2hi6oaOVAqhPRrS4hL9uYcwroo6V/Mw7Uk=

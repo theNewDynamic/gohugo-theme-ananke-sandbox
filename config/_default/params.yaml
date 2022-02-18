@@ -10,3 +10,10 @@ ananke_socials:
   color: 'red'
 - name: fancy
   url: https://fancy.com/yoyo
+- name: tiktok
+
+- name: hackernews
+# site_logo: /images/barn-images-unsplash.jpg
+date_format: 2. January 2006
+mainSections:
+- post

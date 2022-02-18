@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 omit_header_text: true
 description: On aimerai vous entendre
 type: page

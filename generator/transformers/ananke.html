@@ -1,0 +1,8 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $s.SetInMap "data" "featured_image" (partial "random/image") }}
+
+{{ return (dict
+  "front_matter" ($s.Get "data")
+) }}

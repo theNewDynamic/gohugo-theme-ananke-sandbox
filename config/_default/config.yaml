@@ -4,3 +4,7 @@ DefaultContentLanguage: en
 disqusShortname: something
 theme:
   - github.com/theNewDynamic/gohugo-theme-ananke
+taxonomies:
+  technology: technologies
+cascade:
+  featured_image: 
