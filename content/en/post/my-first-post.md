@@ -1,6 +1,6 @@
 ---
 title: My First Post
-date: 2017-04-09T10:58:08-04:00
+date: 2021-04-09T10:58:08-04:00
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 technologies: 
 - static
@@ -10,5 +10,37 @@ Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. N
 
 ![image](https://www.url.com/img/image.jpg)
 
+```php
+$v = "bonjour"
+```
+
 Magnis dis parturient montes, nascetur ridiculus mus.
 {data-something="test"}
+
+```css
+pre, .pre  {
+  overflow-x: auto;
+  overflow-y: hidden;
+
+}
+
+
+pre  code {
+  display: block;
+  padding: 1.5em 1.5em;
+  white-space: pre;
+  font-size: .875rem;
+  line-height: 2;
+
+}
+
+pre {
+  background-color: #222;
+  color: #ddd;
+  white-space: pre;
+
+  hyphens: none;
+  position: relative;
+}
+
+```
