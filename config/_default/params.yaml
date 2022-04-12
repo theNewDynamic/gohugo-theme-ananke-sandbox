@@ -14,6 +14,7 @@ ananke_socials:
 
 - name: hackernews
 # site_logo: /images/barn-images-unsplash.jpg
-date_format: 2. January 2006
+# date_format: 2. January 2006
 mainSections:
 - post
+date_format: January 2, 2006

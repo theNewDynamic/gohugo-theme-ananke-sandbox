@@ -1,3 +1,7 @@
-.bonjour{
-color: blueblueblue
+.menu{
+  display: none;
+}
+
+input:checked + .menu{
+  display: block;
 }

@@ -4,3 +4,9 @@ en:
 fr:
   name: Français
   weight: 2
+ja:
+  name: 日本
+  weight: 3
+he:
+  weight: 4
+  languageDirection: "rtl"
