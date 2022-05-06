@@ -8,6 +8,9 @@ mounts:
 - source: content/ja
   target: content
   lang: ja
+- source: content/he
+  target: content
+  lang: he
 - source: generator/generated_content/content/posts
   target: content/post
   lang: en

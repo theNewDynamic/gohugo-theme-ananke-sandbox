@@ -1,7 +1,7 @@
 {
   "hugo": {
-		"version": "0.65.0",
-		"extended": "false"
+		"version": "0.84.0",
+		"extended": false
 	},
 	"scripts": {
 		"gen": "cd generator && hugo --cleanDestinationDir"

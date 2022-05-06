@@ -5,3 +5,13 @@
 input:checked + .menu{
   display: block;
 }
+
+body::after{
+  content: "This is added throught custom CSS";
+  display: block;
+  position: fixed;
+  background: white;
+  bottom:0;right:0;
+  padding: .5rem 1rem;
+  border: 1px solid black;
+}
